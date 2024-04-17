@@ -1,0 +1,5 @@
+ID,Longitude,Latitude,Timestamp,DAC,Original core file,Original synthetic file
+6902909_213,-142.2430867,-8.167251667,2024-04-09T01:46:00.000Z,IF,ftp://ftp.ifremer.fr/ifremer/argo/dac/coriolis/6902909/profiles/R6902909_213.nc,ftp://ftp.ifremer.fr/ifremer/argo/dac/coriolis/6902909/profiles/SR6902909_213.nc
+6902909_213D,-141.7634067,-8.229096667,2024-03-30T22:54:00.000Z,IF,ftp://ftp.ifremer.fr/ifremer/argo/dac/coriolis/6902909/profiles/R6902909_213D.nc,ftp://ftp.ifremer.fr/ifremer/argo/dac/coriolis/6902909/profiles/SR6902909_213D.nc
+6902909_212,-141.7603533,-8.229658333,2024-03-30T21:42:00.000Z,IF,ftp://ftp.ifremer.fr/ifremer/argo/dac/coriolis/6902909/profiles/R6902909_212.nc,ftp://ftp.ifremer.fr/ifremer/argo/dac/coriolis/6902909/profiles/SR6902909_212.nc
+6902909_212D,-141.6643767,-8.183051667,2024-03-20T17:31:00.000Z,IF,ftp://ftp.ifremer.fr/ifremer/argo/dac/coriolis/6902909/profiles/R6902909_212D.nc,ftp://ftp.ifremer.fr/ifremer/argo/dac/coriolis/6902909/profiles/SR6902909_212D.nc
