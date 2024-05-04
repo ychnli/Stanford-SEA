@@ -1,0 +1,16 @@
+nc Variable	Variable	Units	Description
+
+cruise_id	Cruise		
+station_id	Station		
+station_type	Type		
+longitude	Longitude	degrees_east	
+latitude	Latitude	degrees_north	
+date_time	Decimal Gregorian Days of the station	days since 2024-01-01 00:00:00 UTC	Relative Gregorian Days with decimal part
+			
+Date	Date		
+Time	Time		
+Depth	Depth		
+Temperature	Temperature		
+Salinity	Salinity		
+Fluorescence	Fluorescence		
+Section_Distance	Section Distance	km	
